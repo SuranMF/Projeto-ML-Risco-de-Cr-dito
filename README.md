@@ -80,17 +80,8 @@ Escolhida por ser amplamente utilizada em estudos financeiros e representar bem 
   "classe_predita": 1,
   "prob_mau_pagador": 0.417546
 }
+
 ```
-
-projeto_credito/
- ├── notebook.ipynb
- ├── app.py
- ├── modelo_credito.pkl
- ├── requirements.txt
- ├── data/
- │   └── german.data
- └── README.md
-
 ### 🚀 Deploy
 
 Modelo salvo em joblib
@@ -118,5 +109,6 @@ Este projeto demonstrou um ciclo completo de Machine Learning aplicado ao risco 
    - Métricas robustas (AUC-ROC como foco)
 
    - Deploy via Flask + Ngrok
+
 
 O pipeline desenvolvido representa um fluxo real utilizado em instituições financeiras e pode ser expandido para ambientes de produção com containers (Docker) e serviços em nuvem.
