@@ -80,15 +80,8 @@ Escolhida por ser amplamente utilizada em estudos financeiros e representar bem 
   "classe_predita": 1,
   "prob_mau_pagador": 0.417546
 }
+```
 
-projeto_credito/
- ├── notebook.ipynb
- ├── app.py
- ├── modelo_credito.pkl
- ├── requirements.txt
- ├── data/
- │   └── german.data
- └── README.md
 
 ### 🚀 Deploy
 
