@@ -82,6 +82,14 @@ Escolhida por ser amplamente utilizada em estudos financeiros e representar bem 
 }
 ```
 
+projeto_credito/
+ ├── notebook.ipynb
+ ├── app.py
+ ├── modelo_credito.pkl
+ ├── requirements.txt
+ ├── data/
+ │   └── german.data
+ └── README.md
 
 ### 🚀 Deploy
 
